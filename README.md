@@ -1,6 +1,6 @@
 # PiCalc Prototype
 
-A simple and early version of the eventuall PiCalc.
+A simple and early version of the eventual PiCalc.
 
 Current Version:
     Hardware:
